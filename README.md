@@ -21,7 +21,7 @@ I'm currently intrested in:
 
 I'm currently reading during the day:  <a href="https://read.amazon.com/kp/embed?asin=B015CKNWJI&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_hB7gFb9WARHAD">Algorithms to Live By: The Computer Science of Human Decisions</a> by Brian Christian & Tom Griffiths
 
-I'm currently reading at night: <a href="https://www.amazon.com/dp/B001OC2W04/ref=cm_sw_em_r_mt_dp_U_AG7gFbBB0FN88">Hyperion</a> by Dan Simmons
+I'm currently reading at night: <a href="https://www.amazon.com/dp/B001OC2W0E/ref=cm_sw_em_r_mt_dp_HFHmFb4236WJQ">The Fall of Hyperion</a> by Dan Simmons
 
 I'm currently following the podcast: <a href="https://podcasts.voxmedia.com/show/pivot">Pivot</a>
 
