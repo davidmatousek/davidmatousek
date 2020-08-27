@@ -23,8 +23,8 @@ I'm currently reading during the day:  <a href="https://read.amazon.com/kp/embed
 
 I'm currently reading at night: <a href="https://smile.amazon.com/dp/B07DPWNNPQ/ref=cm_sw_em_r_mt_dp_fS8rFbJ5PFS57">Half-Witch: a novel</a> by John Schoffstall
 
-I'm currently following the podcasts: 
-<a href="https://podcasts.voxmedia.com/show/pivot">Pivot</a>
+I'm currently following the podcasts: </br>
+<a href="https://podcasts.voxmedia.com/show/pivot">Pivot</a></br>
 <a href="https://podcasts.apple.com/us/podcast/swift-over-coffee/id1435076502">Swift over Coffee</a>
 
 <p align="center">
