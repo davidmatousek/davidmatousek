@@ -26,6 +26,7 @@ I'm currently reading at night: <a href="https://smile.amazon.com/dp/B007NVE0KA/
 I'm currently following the podcasts: </br>
 <a href="https://podcasts.voxmedia.com/show/pivot">Pivot</a></br>
 <a href="https://podcasts.apple.com/us/podcast/swift-over-coffee/id1435076502">Swift over Coffee</a>
+<a href="https://fs.blog/knowledge-project/">Knowledge Project</a>
 
 <p align="center">
 	<a href="https://github.com/davidmatousek"><img src="https://img.shields.io/github/followers/davidmatousek.svg?label=GitHub&style=social" alt="GitHub"></a>
