@@ -19,9 +19,9 @@ I'm currently intrested in:
 - Listening to audio books & podcasts
 - Cooking steak and using my sous vide
 
-I'm currently reading during the day:  <a href="https://read.amazon.com/kp/embed?asin=B015CKNWJI&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_hB7gFb9WARHAD">Algorithms to Live By: The Computer Science of Human Decisions</a> by Brian Christian & Tom Griffiths
+I'm currently reading during the day:  <a href="https://smile.amazon.com/dp/B007NVE0KA/ref=cm_sw_em_r_mt_dp_vW6tFbX48JANQ">Thinking, Fast and Slow</a> by Daniel Kahneman  & Tom Griffiths
 
-I'm currently reading at night: <a href="https://smile.amazon.com/dp/B07DPWNNPQ/ref=cm_sw_em_r_mt_dp_fS8rFbJ5PFS57">Half-Witch: a novel</a> by John Schoffstall
+I'm currently reading at night: <a href="https://smile.amazon.com/dp/B007NVE0KA/ref=cm_sw_em_r_mt_dp_vW6tFbX48JANQ">Contact</a> by Carl Sagan
 
 I'm currently following the podcasts: </br>
 <a href="https://podcasts.voxmedia.com/show/pivot">Pivot</a></br>
