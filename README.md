@@ -15,7 +15,8 @@ Sincerely,
 David Matousek
 
 I'm currently intrested in:
-- Exploring GitHub Actions for mobile applications (see my new in development app, StockWatcher)
+- Exploring GitHub Actions for mobile applications (see my new in development app, <a href="https://github.com/davidmatousek/StockWatcher">StockWatcher</a>)
+- Starting to build a DevOps tool on iOS that uses GraphQL and Apollo to query GitHub on <a href="https://github.com/GitHubDevopsIOS/GitHubDevOps">GitHubDevOps</a>
 - Listening to audio books & podcasts
 - Cooking steak and using my sous vide
 
@@ -25,7 +26,7 @@ I'm currently reading at night: <a href="https://smile.amazon.com/dp/B007NVE0KA/
 
 I'm currently following the podcasts: </br>
 <a href="https://podcasts.voxmedia.com/show/pivot">Pivot</a></br>
-<a href="https://podcasts.apple.com/us/podcast/swift-over-coffee/id1435076502">Swift over Coffee</a>
+<a href="https://podcasts.apple.com/us/podcast/swift-over-coffee/id1435076502">Swift over Coffee</a></br>
 <a href="https://fs.blog/knowledge-project/">Knowledge Project</a>
 
 <p align="center">
