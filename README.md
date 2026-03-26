@@ -1,8 +1,10 @@
 # David Matousek
 
-**Solution Compliance Lead** | Commonwealth of Massachusetts | LinkedIn Top Voice in Cybersecurity
+**Fractional CISO / Security Architect** | **Solution Compliance Lead**, Commonwealth of Massachusetts | LinkedIn Top Voice in Cybersecurity
 
-I lead compliance, risk, and security architecture for the Business Enterprise System Transformation (BEST) program. I write about building AI-powered development workflows that are secure, governed, and actually work in the enterprise.
+I help organizations build security programs that actually work. As a fractional CISO, I bring enterprise security architecture and risk leadership to teams that need senior guidance without a full-time hire. At the Commonwealth of Massachusetts, I lead compliance, risk, and security architecture for the Business Enterprise System Transformation (BEST) program.
+
+I write about building AI-powered development workflows that are secure, governed, and practical for the enterprise.
 
 ## What I'm Working On
 
