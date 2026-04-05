@@ -14,10 +14,25 @@ I write about building AI-powered development workflows that are secure, governe
 
 ## Open Source
 
+### Security Tooling
+
 | Repo | What It Does |
 |------|-------------|
 | [tachi](https://github.com/davidmatousek/tachi) | Automated threat modeling toolkit. STRIDE + AI-specific threats in one command. |
-| [agentic-oriented-development-kit](https://github.com/davidmatousek/agentic-oriented-development-kit) | SDLC Triad governance template for AI agent-assisted development. |
+| [Cybersecurity Content](https://github.com/davidmatousek/DavidMatousek-Cybersecurity-Content) | Security Manifesto for AI-assisted development and the Seven Strategic Cybersecurity Posture Domains framework. |
+
+### Agentic Development
+
+| Repo | What It Does |
+|------|-------------|
+| [AOD Kit](https://github.com/davidmatousek/agentic-oriented-development-kit) | Agentic Development Lifecycle (ADLC) framework with SDLC Triad governance for AI agent-assisted development. |
+
+### Developer Tools
+
+| Repo | What It Does |
+|------|-------------|
+| [GitHubDevOps](https://github.com/davidmatousek/GitHubDevOps) | SwiftUI app for GitHub CI/CD metrics via GraphQL API. |
+| [StockWatcher](https://github.com/davidmatousek/StockWatcher) | Swift stock watching application using Alpha Vantage. |
 
 ## Connect
 
