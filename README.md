@@ -1,46 +1,47 @@
 # David Matousek
 
-**Fractional CISO / Security Architect** | **Solution Compliance Lead**, Commonwealth of Massachusetts | LinkedIn Top Voice in Cybersecurity
+### Cybersecurity Leader · Application, AI & Cloud Security · Risk & Compliance
 
-I help organizations build security programs that actually work. As a fractional CISO, I bring enterprise security architecture and risk leadership to teams that need senior guidance without a full-time hire. At the Commonwealth of Massachusetts, I lead compliance, risk, and security architecture for the Business Enterprise System Transformation (BEST) program.
+**LinkedIn Top Voice in Cybersecurity** — and a builder: creator of [tachi](https://github.com/davidmatousek/tachi) and [AOD-Kit](https://github.com/davidmatousek/agentic-oriented-development-kit).
 
-I write about building AI-powered development workflows that are secure, governed, and practical for the enterprise.
+I lead enterprise security programs where strategy meets engineering — across application security, AI/ML security, and cloud security, grounded in the risk, compliance, and governance discipline that regulated environments demand. Today I lead compliance, risk, and security architecture for the Commonwealth of Massachusetts' Business Enterprise System Transformation (BEST) program, and I've served as a fractional CISO bringing senior security leadership to organizations that need it without a full-time hire.
 
-## Flagship project: tachi
+What sets me apart is range: I set security strategy **and** build the tooling that enforces it. If you're hiring a **CISO or VP of Cybersecurity**, that combination — executive leadership, deep technical range, and a builder's bias for shipping — is what I bring.
 
-**[tachi](https://github.com/davidmatousek/tachi)** — Threat Modeling and Vulnerability Detection Harness for Claude Code. An AI-reasoning security scanner (STRIDE + AI + MAESTRO) that reasons over your architecture description to catch the logic-level risks SAST can't reach. **OWASP 50/50 coverage** across LLM 2025 + Agentic 2026 + ML 2023 + Mobile 2024 + Web/API 2021/2023 — every catalogued threat in all five frameworks has a detection agent, with byte-deterministic reproducible verification.
+---
 
-## What I'm Working On
+## Security leadership
 
-**Agentic-Oriented Development** — A book series mapping object-oriented principles to AI agent workflows. 9 chapters published, covering the ADLC (Agentic Development Lifecycle), context encapsulation, and governance patterns for agent-assisted development.
+- **Risk, compliance & security architecture at enterprise scale** — Leading compliance, risk, and security architecture for the Commonwealth of Massachusetts' Business Enterprise System Transformation (BEST) program.
+- **Fractional CISO** — Senior security architecture and risk leadership for organizations that need it without a full-time hire.
+- **Application · AI · cloud security** — Threat modeling, secure-by-design architecture, and governance for modern application, AI-agent, and cloud workloads.
+- **Strategic posture frameworks** — Author of the *Seven Strategic Cybersecurity Posture Domains* framework and a Security Manifesto for AI-assisted development.
 
-- [Read on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7429543239306653696)
+## What I build
 
-## Open Source
+I build the tooling I'd want as a CISO — practical, governed, and verifiable.
 
-### Security Tooling
+**[tachi](https://github.com/davidmatousek/tachi) — flagship project**
+Threat Modeling and Vulnerability Detection Harness for Claude Code. An AI-reasoning security scanner (STRIDE + AI + MAESTRO) that reasons over your architecture to catch the logic-level risks SAST can't reach. **OWASP 50/50 coverage** across LLM 2025, Agentic 2026, ML 2023, Mobile 2024, and Web/API 2021/2023 — every catalogued threat in all five frameworks has a detection agent, with byte-deterministic, reproducible verification.
 
-| Repo | What It Does |
+**[AOD-Kit](https://github.com/davidmatousek/agentic-oriented-development-kit)**
+Agentic-Oriented Development Kit — an SDLC framework with built-in Triad governance (PM + Architect + Team-Lead sign-offs) for secure, accountable AI-agent development.
+
+## Writing & frameworks
+
+- **[Cybersecurity Content](https://github.com/davidmatousek/DavidMatousek-Cybersecurity-Content)** — The Security Manifesto for AI-assisted development and the *Seven Strategic Cybersecurity Posture Domains* framework.
+- **Agentic-Oriented Development** — A book series mapping object-oriented principles to AI-agent workflows; 9 chapters published. [Read on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7429543239306653696)
+
+## More on GitHub
+
+| Repo | What it does |
 |------|-------------|
-| [tachi](https://github.com/davidmatousek/tachi) | STRIDE + AI + MAESTRO threat-modeling harness for Claude Code. OWASP 50/50 coverage (LLM + Agentic + ML + Mobile + Web/API). |
-| [Cybersecurity Content](https://github.com/davidmatousek/DavidMatousek-Cybersecurity-Content) | Security Manifesto for AI-assisted development and the Seven Strategic Cybersecurity Posture Domains framework. |
+| [GitHubDevOps](https://github.com/davidmatousek/GitHubDevOps) | SwiftUI app for GitHub CI/CD metrics via the GraphQL API. |
+| [StockWatcher](https://github.com/davidmatousek/StockWatcher) | Swift application for stock watching via Alpha Vantage. |
 
-### Agentic Development
+## Let's connect
 
-| Repo | What It Does |
-|------|-------------|
-| [AOD Kit](https://github.com/davidmatousek/agentic-oriented-development-kit) | Agentic Development Lifecycle (ADLC) framework with SDLC Triad governance for AI agent-assisted development. |
-
-### Developer Tools
-
-| Repo | What It Does |
-|------|-------------|
-| [GitHubDevOps](https://github.com/davidmatousek/GitHubDevOps) | SwiftUI app for GitHub CI/CD metrics via GraphQL API. |
-| [StockWatcher](https://github.com/davidmatousek/StockWatcher) | Swift stock watching application using Alpha Vantage. |
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/davidmatousek)
+- **[LinkedIn](https://www.linkedin.com/in/davidmatousek)** — best for CISO / VP Cybersecurity conversations
 - [davidmatousek.com](https://www.davidmatousek.com)
 - [Book a call](https://calendly.com/david_matousek/30min)
 
