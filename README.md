@@ -2,11 +2,11 @@
 
 ### Cybersecurity Leader · Application, AI & Cloud Security · Risk & Compliance
 
-**LinkedIn Top Voice in Cybersecurity** — and a builder: creator of [tachi](https://github.com/davidmatousek/tachi) and [AOD-Kit](https://github.com/davidmatousek/agentic-oriented-development-kit).
+**Builder as much as strategist** — creator of [tachi](https://github.com/davidmatousek/tachi) and [AOD-Kit](https://github.com/davidmatousek/agentic-oriented-development-kit), and author on securing AI-assisted development.
 
 I lead enterprise security programs where strategy meets engineering — across application security, AI/ML security, and cloud security, grounded in the risk, compliance, and governance discipline that regulated environments demand. Today I lead compliance, risk, and security architecture for the Commonwealth of Massachusetts' Business Enterprise System Transformation (BEST) program, and I've served as a fractional CISO bringing senior security leadership to organizations that need it without a full-time hire.
 
-What sets me apart is range: I set security strategy **and** build the tooling that enforces it. If you're hiring a **CISO or VP of Cybersecurity**, that combination — executive leadership, deep technical range, and a builder's bias for shipping — is what I bring.
+What sets me apart is range: I set security strategy **and** build the tooling that enforces it — pairing executive security leadership with the hands-on technical depth a modern **CISO or VP of Cybersecurity** role demands.
 
 ---
 
@@ -41,7 +41,7 @@ Agentic-Oriented Development Kit — an SDLC framework with built-in Triad gover
 
 ## Let's connect
 
-- **[LinkedIn](https://www.linkedin.com/in/davidmatousek)** — best for CISO / VP Cybersecurity conversations
+- **[LinkedIn](https://www.linkedin.com/in/davidmatousek)** — the best way to reach me
 - [davidmatousek.com](https://www.davidmatousek.com)
 - [Book a call](https://calendly.com/david_matousek/30min)
 
