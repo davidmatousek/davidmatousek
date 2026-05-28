@@ -2,11 +2,11 @@
 
 ### Cybersecurity Leader · Application, AI & Cloud Security · Risk & Compliance
 
-**Builder as much as strategist** — creator of [tachi](https://github.com/davidmatousek/tachi) and [AOD-Kit](https://github.com/davidmatousek/agentic-oriented-development-kit), and author on securing AI-assisted development.
+**I don't just advise on security — I build it.** Creator of [tachi](https://github.com/davidmatousek/tachi) and [AOD-Kit](https://github.com/davidmatousek/agentic-oriented-development-kit).
 
 I lead enterprise security programs where strategy meets engineering — across application security, AI/ML security, and cloud security, grounded in the risk, compliance, and governance discipline that regulated environments demand. Today I lead compliance, risk, and security architecture for the Commonwealth of Massachusetts' Business Enterprise System Transformation (BEST) program, and I've served as a fractional CISO bringing senior security leadership to organizations that need it without a full-time hire.
 
-What sets me apart is range: I set security strategy **and** build the tooling that enforces it — pairing executive security leadership with the hands-on technical depth a modern **CISO or VP of Cybersecurity** role demands.
+What sets me apart is range: I pair executive security leadership with the hands-on technical depth a modern **CISO or VP of Cybersecurity** role demands.
 
 ---
 
