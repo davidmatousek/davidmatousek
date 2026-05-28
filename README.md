@@ -30,7 +30,7 @@ An open-source methodology and toolkit for *governed* AI-assisted development: a
 ## Writing & frameworks
 
 - **[Cybersecurity Content](https://github.com/davidmatousek/DavidMatousek-Cybersecurity-Content)** — The Security Manifesto for AI-assisted development and the *Seven Strategic Cybersecurity Posture Domains* framework.
-- **Agentic-Oriented Development** — My book series (9 chapters) and the *Agentic Shift* newsletter on agentic development. [Subscribe on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7429543239306653696)
+- **Agentic-Oriented Development** — My book series and the *Agentic Shift* newsletter on agentic development. [Subscribe on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7429543239306653696)
 
 ## More on GitHub
 
