@@ -12,14 +12,14 @@ What sets me apart is range: I pair executive security leadership with the hands
 
 ## Security leadership
 
-- **Risk, compliance & security architecture at enterprise scale** — Leading compliance, risk, and security architecture for the Commonwealth of Massachusetts' Business Enterprise System Transformation (BEST) program.
-- **Fractional CISO** — Senior security architecture and risk leadership for organizations that need it without a full-time hire.
-- **Application · AI · cloud security** — Threat modeling, secure-by-design architecture, and governance for modern application, AI-agent, and cloud workloads.
-- **Strategic posture frameworks** — Author of the *Seven Strategic Cybersecurity Posture Domains* framework and a Security Manifesto for AI-assisted development.
+- **Enterprise risk, compliance & security architecture** — Lead compliance, risk, and security architecture for the Commonwealth of Massachusetts' Business Enterprise System Transformation (BEST) program.
+- **Fractional CISO** — Bring CISO-level security leadership to organizations that need it without a full-time hire.
+- **Application, AI & cloud security** — Secure modern application, AI-agent, and cloud workloads through threat modeling, secure-by-design architecture, and governance.
+- **Security strategy & governance** — Translate risk and compliance requirements into security architecture and program governance for regulated, AI-forward environments.
 
 ## What I build
 
-I build the tooling I'd want as a CISO — practical, governed, and verifiable.
+I build the tooling I'd deploy on my own security team — practical, governed, and verifiable.
 
 **[tachi](https://github.com/davidmatousek/tachi) — flagship project**
 Threat Modeling and Vulnerability Detection Harness for Claude Code. An AI-reasoning security scanner (STRIDE + AI + MAESTRO) that reasons over your architecture to catch the logic-level risks SAST can't reach. **OWASP 50/50 coverage** across LLM 2025, Agentic 2026, ML 2023, Mobile 2024, and Web/API 2021/2023 — every catalogued threat in all five frameworks has a detection agent, with byte-deterministic, reproducible verification.
@@ -33,6 +33,8 @@ Agentic-Oriented Development Kit — an SDLC framework with built-in Triad gover
 - **Agentic-Oriented Development** — A book series mapping object-oriented principles to AI-agent workflows; 9 chapters published. [Read on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7429543239306653696)
 
 ## More on GitHub
+
+Smaller builds that keep me close to the code:
 
 | Repo | What it does |
 |------|-------------|
