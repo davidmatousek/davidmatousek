@@ -2,7 +2,7 @@
 
 ### Cybersecurity Leader · Application, AI & Cloud Security · Risk & Compliance
 
-**I don't just advise on security — I build it.** Creator of [tachi](https://github.com/davidmatousek/tachi) and [AOD-Kit](https://github.com/davidmatousek/agentic-oriented-development-kit).
+**I don't just advise on security — I build it.** Creator of [tachi](https://github.com/davidmatousek/tachi) and [AOD](https://www.agentic-oriented-development.com).
 
 I lead enterprise security programs where strategy meets engineering — across application security, AI/ML security, and cloud security, grounded in the risk, compliance, and governance discipline that regulated environments demand. Today I lead compliance, risk, and security architecture for the Commonwealth of Massachusetts' Business Enterprise System Transformation (BEST) program, and I've served as a fractional CISO bringing senior security leadership to organizations that need it without a full-time hire.
 
@@ -24,13 +24,13 @@ I build the tooling I'd deploy on my own security team — practical, governed, 
 **[tachi](https://github.com/davidmatousek/tachi) — flagship project**
 Threat Modeling and Vulnerability Detection Harness for Claude Code. An AI-reasoning security scanner (STRIDE + AI + MAESTRO) that reasons over your architecture to catch the logic-level risks SAST can't reach. **OWASP 50/50 coverage** across LLM 2025, Agentic 2026, ML 2023, Mobile 2024, and Web/API 2021/2023 — every catalogued threat in all five frameworks has a detection agent, with byte-deterministic, reproducible verification.
 
-**[AOD-Kit](https://github.com/davidmatousek/agentic-oriented-development-kit)**
-Agentic-Oriented Development Kit — an SDLC framework with built-in Triad governance (PM + Architect + Team-Lead sign-offs) for secure, accountable AI-agent development.
+**[AOD — Agentic Oriented Development](https://www.agentic-oriented-development.com)** · *newly launched*
+An open-source methodology and toolkit for *governed* AI-assisted development: a three-role Triad (PM · Architect · Team-Lead) and a six-stage lifecycle that produce specs an agent can't bypass at build time. Ships with stack packs, Claude-led security scanning, and structured thinking lenses. ([GitHub](https://github.com/davidmatousek/agentic-oriented-development-kit))
 
 ## Writing & frameworks
 
 - **[Cybersecurity Content](https://github.com/davidmatousek/DavidMatousek-Cybersecurity-Content)** — The Security Manifesto for AI-assisted development and the *Seven Strategic Cybersecurity Posture Domains* framework.
-- **Agentic-Oriented Development** — A book series mapping object-oriented principles to AI-agent workflows; 9 chapters published. [Read on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7429543239306653696)
+- **Agentic-Oriented Development** — My book series (9 chapters) and the *Agentic Shift* newsletter on agentic development. [Subscribe on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7429543239306653696)
 
 ## More on GitHub
 
